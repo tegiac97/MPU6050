@@ -1,13 +1,5 @@
 #include"i2c.h"
 
-void UART_Init(){
-    U1MODEbits.STSEL=0;
-    U1MODEbits.PDSEL=0;
-    U1BRG=12;
-    U1MODEbits.UARTEN=1;
-   
-}
-
 //I2C_Start
 void I2C_Start(){
     I2CCONbits.SEN=1;

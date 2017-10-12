@@ -14,7 +14,6 @@
 #include<stdio.h>
 #include<libpic30.h>
 
-void UART_Init();
 void I2C_Stop();
 void I2C_Stop();
 void I2C_Repeated_Start();
