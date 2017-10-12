@@ -1,6 +1,6 @@
 ### MPU6050
 
-##Change log
+## Change log
 
 - **v2.** Thay vì để hết trong 1 file, phiên bản 2 đưa về dạng thư viện
 
